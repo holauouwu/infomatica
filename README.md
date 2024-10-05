@@ -1,0 +1,2 @@
+# infomatica
+Es un proyecto
